@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<exposicions>
+	<exposicio>
+		<nom>Vincent van Gogh</nom>
+		<entitat>Art de co Barcelona</entitat>
+		<tarifa>15</tarifa>
+		<any>2023</any>
+		<imatge>/img/La noche estrellada.jpg</imatge>
+	</exposicio>
+	<exposicio>
+		<nom>Sandro Botticelli</nom>
+		<entitat>Quadres d'art</entitat>
+		<tarifa>16</tarifa>
+		<any>2024</any>
+		<imatge>/img/El nacimiento de venus.jpg</imatge>
+	</exposicio>
+	<exposicio>
+		<nom>Pablo Picasso</nom>
+		<entitat>Inspiració</entitat>
+		<tarifa>14</tarifa>
+		<any>2022</any>
+		<imatge>/img/Guernica.jpg</imatge>
+	</exposicio>
+	<exposicio>
+		<nom>Johannes Vermeer</nom>
+		<entitat>Enquadrament</entitat>
+		<tarifa>17</tarifa>
+		<any>2024</any>
+		<imatge>/img/La joven de la perla.jpg</imatge>
+	</exposicio>
+	<exposicio>
+		<nom>Salvador Dalí</nom>
+		<entitat>Galeria d'art</entitat>
+		<tarifa>13</tarifa>
+		<any>2021</any>
+		<imatge>/img/Persistencia de la memoria.png</imatge>
+	</exposicio>
+</exposicions>
